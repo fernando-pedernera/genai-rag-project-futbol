@@ -106,8 +106,6 @@ streamlit run app/app.streamlit.py
 
 ## 🌐 [Demo en Streamlit](https://cgenai-rag-project-futbol-consulta-partidos-de-futbol.streamlit.app/) 
 
-👉 Demo en Streamlit Cloud
-
 ## 🛠️ Roadmap
 
 - MVP Funcional
@@ -123,6 +121,7 @@ Fernando Pedernera
 Data Engineer | Especialista en IA  
 🔗 [LinkedIn](https://www.linkedin.com/in/fgpedernera/) 
 📍 Córdoba, Argentina | 🚀 Proyecto personal en constante evolución
+
 
 
 
