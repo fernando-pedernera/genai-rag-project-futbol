@@ -113,6 +113,8 @@ streamlit run app/app.streamlit.py
 - Sistema de caché para consultas frecuentes
 - Soporte para múltiples idiomas
 
+🚀 Proyecto personal en constante evolución
+
 ## 📄 Licencia
 
 MIT License - Ver LICENSE para detalles.
@@ -120,7 +122,8 @@ MIT License - Ver LICENSE para detalles.
 Fernando Pedernera  
 Data Engineer | Especialista en IA  
 🔗 [LinkedIn](https://www.linkedin.com/in/fgpedernera/) 
-📍 Córdoba, Argentina | 🚀 Proyecto personal en constante evolución
+📍 Córdoba, Argentina | 
+
 
 
 
