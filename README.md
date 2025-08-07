@@ -1,4 +1,4 @@
-⚽ Consulta de Partidos de Fútbol con GenAI + RAG
+### ⚽ Consulta de Partidos de Fútbol con GenAI + RAG
 
 Aplicación conversacional para consultar partidos de fútbol utilizando Inteligencia Artificial Generativa (GenAI) y Retrieval-Augmented Generation (RAG).
 
@@ -123,3 +123,4 @@ Fernando Pedernera
 Data Engineer | Especialista en IA  
 🔗 [LinkedIn](https://www.linkedin.com/in/fgpedernera/) 
 📍 Córdoba, Argentina | 🚀 Proyecto personal en constante evolución
+
