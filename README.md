@@ -74,7 +74,7 @@ GENAI-RAG-PROJECT-FUTBOL/
 1. **Verificar partidos del día**  
   Consulta [Promiedos](https://www.promiedos.com.ar/) para equipos con partidos programados
   
-2. **Realizar consultas en [Demo en Streamlit](https://cgenai-rag-project-futbol-consulta-partidos-de-futbol.streamlit.app/) **:
+2. Realizar la consulta en [Demo Streamlit](https://cgenai-rag-project-futbol-consulta-partidos-de-futbol.streamlit.app/):
   
   ```plaintext
   ¿Qué equipos juegan hoy en la Premier League?
@@ -121,6 +121,7 @@ Fernando Pedernera
 Data Engineer | Especialista en IA  
 🔗 [LinkedIn](https://www.linkedin.com/in/fgpedernera/) 
 📍 Córdoba, Argentina | 🚀 Proyecto personal en constante evolución
+
 
 
 
