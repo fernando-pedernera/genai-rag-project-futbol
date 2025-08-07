@@ -1,0 +1,17 @@
+version: '3.9'
+
+services:
+  embeddings:
+    build: .
+    volumes:
+      - ./vector_store:/app/vector_store
+    command: python app/run_embeddings.py
+
+  api:
+    build: .
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./vector_store:/app/vector_store
+    command: uvicorn app.main:app --host 0.0.0.0 --port 8000
+

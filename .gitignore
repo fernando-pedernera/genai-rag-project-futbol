@@ -1,0 +1,26 @@
+# Entorno virtual
+.venv/
+
+# Cache de Python
+__pycache__/
+.pytest_cache/
+
+# Archivos de índice generados
+vector_store/
+
+# Archivos de configuración local o claves
+.env
+
+test_openrouter_api.py
+test_ingestion.py
+test_faiss.py
+run_embeddings.py
+test_mistral_op_api
+project_tree.txt
+estructura.py
+api.log
+1.0
+images
+tests
+notebooks
+requirements.in
