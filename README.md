@@ -23,21 +23,20 @@ Aplicación conversacional para consultar partidos de fútbol utilizando Intelig
 
 ## 🏗️ Estructura del proyecto
 
-GENAI-RAG-PROJECT-FUTBOL/
-├── devcontainer/
-│ └── ... # Configuración para VSCode
-├── app/
-│ ├── init.py
-│ ├── embeddings.py # Gestión de embeddings vectoriales
-│ ├── ingestion.py # Pipeline de ingesta de datos
-│ ├── main.py # Lógica principal
-│ ├── rag_engine.py # Motor RAG personalizado
-│ └── app.streamlit.py # Interfaz de usuario
-├── .gitignore
-├── docker-compose.yml # Orquestación de servicios
-├── Dockerfile # Configuración del contenedor
-├── requirements.txt # Dependencias Python
-└── README.md # Documentación
+📁 GENAI-RAG-PROJECT-FUTBOL/
+├── 📁 devcontainer/           # Configuración para VSCode
+├── 📁 app/
+│   ├── 📄 __init__.py
+│   ├── 📄 embeddings.py       # Gestión de embeddings vectoriales
+│   ├── 📄 ingestion.py        # Pipeline de ingesta de datos
+│   ├── 📄 main.py             # Lógica principal
+│   ├── 📄 rag_engine.py       # Motor RAG personalizado
+│   └── 📄 app.streamlit.py    # Interfaz de usuario
+├── 📄 .gitignore
+├── 📄 docker-compose.yml      # Orquestación de servicios
+├── 📄 Dockerfile              # Configuración del contenedor
+├── 📄 requirements.txt        # Dependencias Python
+└── 📄 README.md               # Documentación
 
 ## 🧪 ¿Cómo probar la aplicación?
 
@@ -123,6 +122,7 @@ Fernando Pedernera
 Data Engineer | Especialista en IA  
 🔗 [LinkedIn](https://www.linkedin.com/in/fgpedernera/) 
 📍 Córdoba, Argentina | 
+
 
 
 
