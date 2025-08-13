@@ -35,12 +35,13 @@ Si prefieres usar listas en lugar del bloque de código, puedes usar esta altern
 │   ├── 📄 ingestion.py        # Pipeline de ingesta de datos
 │   ├── 📄 main.py             # Lógica principal
 │   ├── 📄 rag_engine.py       # Motor RAG personalizado
-│   └── 📄 app.streamlit.py    # Interfaz de usuario
+│  
 ├── 📄 .gitignore
 ├── 📄 docker-compose.yml      # Orquestación de servicios
 ├── 📄 Dockerfile              # Configuración del contenedor
 ├── 📄 requirements.txt        # Dependencias Python
 └── 📄 README.md               # Documentación
+└── 📄 app.streamlit.py    # Interfaz de usuario
 ```
 
 ## 🧪 ¿Cómo probar la aplicación?
@@ -127,6 +128,7 @@ Fernando Pedernera
 Data Engineer | Especialista en IA  
 🔗 [LinkedIn](https://www.linkedin.com/in/fgpedernera/) 
 📍 Córdoba, Argentina | 
+
 
 
 
